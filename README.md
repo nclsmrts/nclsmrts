@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fredoka&weight=500&size=28&pause=1000&color=1CF7E9&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Oi%2C+me+chamo+Nicolas+Martins;Bem+vindo+ao+meu+perfil!!" alt="Typing SVG" /></a>
 
-### Atualmente sou aluno no Senai de Informática, no curos Técnico de Jogos Digitais 
+### Atualmente sou aluno no Senai de Informática, no curso Técnico de Jogos Digitais 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nclsmrts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
